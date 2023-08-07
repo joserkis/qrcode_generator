@@ -1,0 +1,4 @@
+pyqrcodeng
+Pillow
+pypng
+segno
